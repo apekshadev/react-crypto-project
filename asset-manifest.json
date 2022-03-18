@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crypto-project/static/css/main.7f26eaaa.css",
+    "main.js": "/react-crypto-project/static/js/main.1f4f4a90.js",
+    "static/js/787.08b67851.chunk.js": "/react-crypto-project/static/js/787.08b67851.chunk.js",
+    "index.html": "/react-crypto-project/index.html",
+    "main.7f26eaaa.css.map": "/react-crypto-project/static/css/main.7f26eaaa.css.map",
+    "main.1f4f4a90.js.map": "/react-crypto-project/static/js/main.1f4f4a90.js.map",
+    "787.08b67851.chunk.js.map": "/react-crypto-project/static/js/787.08b67851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f26eaaa.css",
+    "static/js/main.1f4f4a90.js"
+  ]
+}
